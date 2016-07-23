@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //prabhu is commenting something here..... :)
+        //this is raga code .. please add this to vani code for sync... :(
     }
 }
