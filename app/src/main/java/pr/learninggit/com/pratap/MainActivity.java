@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         // raga is working on new project
 
         //connection text
+
+        //wanted to learn merging with 2 branches ...
     }
 }
