@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //this is raga code .. please add this to vani code for sync... :(
         // vani is doing somehting again
         // raga is working on new project
+
+        //connection text
     }
 }
